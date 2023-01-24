@@ -14,7 +14,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ## **Links**
 
-- Solution URL: [click here]()
+- Solution URL: [click here](https://www.frontendmentor.io/solutions/social-proof-section-mhZiQX9w1l)
 - Live Site URL: [click here](https://0xabdulkhalid.github.io/social-proof-section/)
 
 <br>
